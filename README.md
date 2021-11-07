@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/julielvieira7/)
 
 ![Juliel's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliel098&show_icons=true&theme=blueberry)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliel098&layout=compact&theme=bleeberry)](https://github.com/Juliel098/juliel098)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliel098&layout=compact&?theme=bleeberry)](https://github.com/Juliel098/juliel098)
 
 
 
