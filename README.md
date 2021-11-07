@@ -6,7 +6,7 @@
 ![Juliel's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliel098&show_icons=true&theme=blueberry)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliel098&layout=compact)](https://github.com/Juliel098/juliel098)
 
-[![Desenvolvimento](https://starchart.cc/{juliel098}/{repo}.svg)]
+[![Desenvolvimento](https://starchart.cc/{juliel098}/{juliel098}.svg)]
 
 
 ### Atuais tecnologias em estudo💻
