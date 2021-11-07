@@ -22,6 +22,6 @@
 <div>
 
 ##
-<div>
-  ![Snake animation](https://github.com/Juliel098/juliel098/blob/output/github-contribution-grid-snake.svg)
-</div>
+  
+
+![Snake animation](https://github.com/Juliel098/juliel098/blob/output/github-contribution-grid-snake.svg)
