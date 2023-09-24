@@ -23,7 +23,7 @@
 ### Acompanhamento dos meus trabalhos 💯
 
 <div align="hight">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliel098&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliel098&layout=compact&langs_count=1&theme=dark"/>
 </div>
   
 ### Atuais tecnologias em estudo💻
